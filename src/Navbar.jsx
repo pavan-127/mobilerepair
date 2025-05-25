@@ -24,7 +24,7 @@ export default function Navbar() {
       <header className="navbar">
         <div className="navbar-left">
           <img
-            src={"/public/logo.png"}
+            src={"public/logo.png"}
             alt="MobileRepair"
             className="logo"
             onClick={() => navigate('/')} // ✅ Navigate to homepage
