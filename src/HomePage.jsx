@@ -2,7 +2,7 @@ import {  useNavigate } from "react-router-dom";
 
 const services = [
   
-  { name: "Repair Phone", image: "/public/Repair1.avif" },
+  { name: "Repair Phone", image: "public/Repair1.avif" },
   // { name: "Buy Laptop", image: "/src/assets/Laptop1.jpg" },
   // { name: "Screen Damage", image: "/src/assets/Screen1.webp" },
   // { name: "Battery Issue", image: "/src/assets/Battery1.jpeg" },
